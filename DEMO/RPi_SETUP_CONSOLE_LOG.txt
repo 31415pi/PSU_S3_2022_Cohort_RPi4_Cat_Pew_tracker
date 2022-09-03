@@ -1755,6 +1755,15 @@ Then we had some syntax errors from teh demo code:
 	
 Once those were completed, the demo code worked fine! Cat faces are identifyable 
 
+3.9.2022
+	https://pimylifeup.com/raspberry-pi-remote-desktop/
+	https://www.digikey.com/en/maker/projects/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi/b929e1519c7c43d5b2c6f89984883588
+		https://github.com/jasper-software/jasper/blob/master/INSTALL.txt
+		https://askubuntu.com/questions/991706/e-package-libpng12-dev-has-no-installation-candidate
+		full circle. nixed the virtual environment since everything was installed (tf, opencv) already in this...
+		Still need to install jasper manually
+		Running it as per the demo, works, time to explore
+
 
 
 
